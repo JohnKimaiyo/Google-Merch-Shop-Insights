@@ -1,4 +1,3 @@
-View Data Source https://analytics.google.com/analytics/web/?utm_source=demoaccount&utm_medium=demoaccount&utm_campaign=demoaccount#/p213025502/reports/intelligenthome
 
 Business Request :
 
@@ -21,3 +20,5 @@ Business Request :
 9.Display Gender distribution
 
 View the locker dashabord here https://lookerstudio.google.com/reporting/a767d111-4abc-46f6-b6b6-0a95c6fb89a1?s=jSPYrrfBadQ
+
+View Data Source https://analytics.google.com/analytics/web/?utm_source=demoaccount&utm_medium=demoaccount&utm_campaign=demoaccount#/p213025502/reports/intelligenthome
